@@ -1,5 +1,5 @@
 cmake_minimum_required( VERSION 3.7 )
-project( untitled23 )
+project( GlutSkeleton )
 set( CMAKE_CXX_STANDARD 14 )
 
 add_definitions( -DPROJECT_NAME="${PROJECT_NAME}" )
